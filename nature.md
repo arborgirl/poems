@@ -1,3 +1,8 @@
+---
+layout: post
+title: What is Nature?
+---
+
 ## What is Nature?
 
 What is nature?  
