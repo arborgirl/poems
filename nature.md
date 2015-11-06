@@ -11,3 +11,5 @@ All these beautiful things
 Representing Nature.  
 
 by Amarie Brown
+
+![Creative Commons license](CC-BY.png)
