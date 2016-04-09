@@ -15,6 +15,6 @@ Look outside and you will see
 All these beautiful things  
 Representing Nature.  
 
-by Amarie Brown
+by Amarie
 
 ![Creative Commons license](CC-BY.png)
